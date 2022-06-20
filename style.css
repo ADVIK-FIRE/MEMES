@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-image: url("https://www.wallpapers13.com/wp-content/uploads/2016/01/Cataratas-iguazu-Waterfall-Desktop-Background-04765.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(146, 255, 246); 
+    border-style:ridge;
+}
+
+body{
+	color: aliceblue;
+	font-size: 30px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
